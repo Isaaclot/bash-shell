@@ -1,0 +1,17 @@
+2:-rwxr-xr-x. 1 root root  134 2月  11 14:57 ba.sh
+3:-rwxr--r--. 1 root root  224 2月  11 14:57 case.sh
+4:-rwxr-xr-x. 1 root root   69 2月  11 14:57 dao.sh
+5:-rwxr-xr-x. 1 root root  273 2月  11 14:57 findkey.sh
+6:-rwxr-xr-x. 1 root root   22 2月  11 14:57 findtest.sh
+7:-rwxr--r--. 1 root root  525 2月  11 14:57 forshell.sh
+8:-rwxr-xr-x. 1 root root  238 2月  11 14:57 forstyleproblem.sh
+9:-rwxr-xr-x. 1 root root  179 2月  11 14:57 function.sh
+10:-rwxr--r--. 1 root root  698 2月  11 14:57 ifshell.sh
+11:-rwxr-xr-x. 1 root root  287 2月  11 14:57 inoutput.sh
+12:-rwxr-xr-x. 1 root root  127 2月  11 14:57 jiao.sh
+15:-rwxr--r--. 1 root root  117 2月  11 14:57 k.sh
+16:-rwxr-xr-x. 1 root root  143 2月  11 14:57 located.sh
+17:-rwxr-xr-x. 1 root root  867 2月  11 14:57 pre.sh
+19:-rwxr-xr-x. 1 root root  151 2月  11 14:57 shiftshell.sh
+21:-rwxr-xr-x. 1 root root  202 2月  11 14:57 test1.sh
+23:-rwxr--r--. 1 root root  569 2月  11 14:57 whileshell.sh

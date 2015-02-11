@@ -1,0 +1,49 @@
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.11  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::7254:d2ff:fe62:1006  prefixlen 64  scopeid 0x20<link>
+        ether 70:54:d2:62:10:06  txqueuelen 1000  (Ethernet)
+        RX packets 56915  bytes 67416721 (64.2 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 42340  bytes 4514229 (4.3 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+test.sh: line 7: kj: command not found
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.11  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::7254:d2ff:fe62:1006  prefixlen 64  scopeid 0x20<link>
+        ether 70:54:d2:62:10:06  txqueuelen 1000  (Ethernet)
+        RX packets 57789  bytes 68155831 (64.9 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 43253  bytes 4621648 (4.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+test.sh: line 7: kj: command not found
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.11  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::7254:d2ff:fe62:1006  prefixlen 64  scopeid 0x20<link>
+        ether 70:54:d2:62:10:06  txqueuelen 1000  (Ethernet)
+        RX packets 57799  bytes 68156817 (64.9 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 43266  bytes 4623794 (4.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+test.sh: line 7: kj: command not found
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.11  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::7254:d2ff:fe62:1006  prefixlen 64  scopeid 0x20<link>
+        ether 70:54:d2:62:10:06  txqueuelen 1000  (Ethernet)
+        RX packets 57808  bytes 68157701 (65.0 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 43274  bytes 4625219 (4.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+test.sh: line 7: kj: command not found
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.6  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::7254:d2ff:fe62:1006  prefixlen 64  scopeid 0x20<link>
+        ether 70:54:d2:62:10:06  txqueuelen 1000  (Ethernet)
+        RX packets 716483  bytes 865049867 (824.9 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 605218  bytes 69341242 (66.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
