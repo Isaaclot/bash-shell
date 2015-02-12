@@ -1,0 +1,9 @@
+username:System message bus
+username:User for polkitd
+username:
+username:Account used by the trousers package to sandbox the tcsd daemon
+username:User for colord
+username:Unbound DNS resolver
+username:usbmuxd user
+username:User for geoclue
+username:qemu user

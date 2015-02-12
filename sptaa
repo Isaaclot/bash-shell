@@ -1,0 +1,9 @@
+username:root
+username:bin
+username:daemon
+username:adm
+username:lp
+username:sync
+username:shutdown
+username:halt
+username:mail
